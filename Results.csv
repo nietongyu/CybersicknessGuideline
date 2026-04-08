@@ -1,0 +1,138 @@
+Paper Title,Design,Condition,Effect Size,Mean/Change,SD/SMD,Female Participant Proportion,Variance
+Unexpected Vection Exacerbates Cybersickness During HMD-Based Virtual Reality,Between,All,1.402012579,55.73,39.75,0.5,0.066093988
+The impact of task workload on cybersickness,Between,No-Task,0.898181818,24.7,27.5,0.35,0.027516966
+The impact of task workload on cybersickness,Between,0-Back,0.901176471,38.3,42.5,0.35,0.027569794
+The impact of task workload on cybersickness,Between,2-Back,1.268240343,59.1,46.6,0.35,0.0353768
+"Comparative analysis of spatial ability in immersive and non-immersive virtual reality: the role of sense of presence, simulation sickness and cognitive load",Between,IVR,1.566172495,55.04,35.143,0.44,0.069576504
+The Effects of Secondary Task Demands on Cybersickness in Active Exploration Virtual Reality Experiences,Between,SIL-Low,2.127923977,58.22,27.36,0.36,0.296730021
+The Effects of Secondary Task Demands on Cybersickness in Active Exploration Virtual Reality Experiences,Between,SIL-High,4.178184535,111.85,26.77,0.36,0.884419364
+The Effects of Secondary Task Demands on Cybersickness in Active Exploration Virtual Reality Experiences,Between,STD-1-back,2.412290104,67.52,27.99,0.36,0.355415616
+The Effects of Secondary Task Demands on Cybersickness in Active Exploration Virtual Reality Experiences,Between,STD-2-back,3.591036415,102.56,28.56,0.45,0.677070115
+You Spin my Head Right Round: Threshold of Limited Immersion for Rotation Gains in Redirected Walking,Between,All,1.06533101,48.92,45.92,0.54,0.060287119
+Analysis on Mitigation of Visually Induced Motion Sickness by Applying Dynamical Blurring on a User's Retina,Between,blur disabled,2.490480508,27.47,11.03,0.5,0.205062329
+Analysis on Mitigation of Visually Induced Motion Sickness by Applying Dynamical Blurring on a User's Retina,Between,blur enabled,1.367409685,17.79,13.01,0.5,0.096745231
+"The Effects of Auditory, Visual, and Cognitive Distractions on Cybersickness in Virtual Reality",Between,ND,2.578568213,57.27,22.21,0.55,0.216225351
+"The Effects of Auditory, Visual, and Cognitive Distractions on Cybersickness in Virtual Reality",Between,AD,1.210526316,26.91,22.23,0.5,0.086634349
+"The Effects of Auditory, Visual, and Cognitive Distractions on Cybersickness in Virtual Reality",Between,VD,1.556429232,33.65,21.62,0.62,0.105296951
+"The Effects of Auditory, Visual, and Cognitive Distractions on Cybersickness in Virtual Reality",Between,CD,1.234473447,27.43,22.22,0.45,0.088098117
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,visual-only w/o head bobbing,1.193010753,22.19,18.6,0.57,0.057054578
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,visual-only with head bobbing,0.975482525,18.7,19.17,0.57,0.049192769
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,audo,1.176470588,18.2,15.47,0.57,0.056401384
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,2-sided tapping,0.435316947,6.73,15.46,0.6,0.036491681
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,2-sided vibration synchronized,0.558208955,9.35,16.75,0.57,0.038526621
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,2-sided vibration random,0.677009873,9.6,14.18,0.57,0.040972373
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,backside vibration synchronized,1.393914474,16.95,12.16,0.57,0.065716626
+WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback,Between,backside vibration random,0.697810219,14.34,20.55,0.6,0.041448985
+Cybersickness with passenger VR in the aircraft: Influence of turbulence and VR content,Between,Static,0.883245383,13.39,15.16,0.49,0.020145815
+Cybersickness with passenger VR in the aircraft: Influence of turbulence and VR content,Between,Dynamic,1.052359882,14.27,13.56,0.5,0.025895511
+The temporal pattern of VR sickness during 7.5-h virtual immersion,Between,T5,1.314186249,30.2,22.98,0.55,0.084706489
+An EEG-based Experiment on VR Sickness and Postural Instability While Walking in Virtual Environments,Between,VRS,2.273459988,39.49,17.37,0.25,0.44803877
+An EEG-based Experiment on VR Sickness and Postural Instability While Walking in Virtual Environments,Between,NoVRS,1.127340824,6.02,5.34,0.25,0.204431083
+Don’t make me sick: investigating the incidence of cybersickness in commercial virtual reality headsets (Exp 1),Between,Exp1-Rift,1.120146371,55.1,49.19,0.53,0.10849093
+Don’t make me sick: investigating the incidence of cybersickness in commercial virtual reality headsets (Exp 1),Between,Exp1-Vive,2.642247511,74.3,28.12,0.47,0.299382397
+Don’t make me sick: investigating the incidence of cybersickness in commercial virtual reality headsets (Exp 2),Between,Exp2-Rift,2.026315789,78.54,38.76,0.5,0.25441482
+Don’t make me sick: investigating the incidence of cybersickness in commercial virtual reality headsets (Exp 2),Between,Exp2-Vive,0.904986318,59.53,65.78,0.5,0.117458343
+Effects of vection type and postural instability on cybersickness,Between,All,1.165511932,30.28,25.98,0.53,0.041980226
+Testing the ‘differences in virtual and physical head pose’ and ‘subjective vertical conflict’ accounts of cybersickness,Between,All,1.418960245,46.4,32.7,0.5,0.066890803
+VR aftereffect and the relation of cybersickness and cognitive performance,Between,Bike/HMD,1.207513417,54,44.72,0.65,0.086452216
+VR aftereffect and the relation of cybersickness and cognitive performance,Between,Gamepad/HMD,1.434415053,52.6,36.67,0.6,0.101438664
+Simulator sickness in patients with neck pain and vestibular pathology during virtual reality tasks,Between,Neck pain,1.371428571,43.2,31.5,0.7,0.097020408
+Simulator sickness in patients with neck pain and vestibular pathology during virtual reality tasks,Between,Vestibular,1.479640719,49.42,33.4,0.57,0.149619166
+Simulator sickness in patients with neck pain and vestibular pathology during virtual reality tasks,Between,Control,0.736700337,21.88,29.7,0.45,0.063568185
+Automatic Detection and Prediction of Cybersickness Severity using Deep Neural Networks from user’s Physiological Signals,Between,All,2.125335378,55.45,26.09,0.09,0.14167501
+VR Sickness Adaptation With Ramped Optic Flow Transfers From Abstract To Realistic Environments,Between,Day 1,1.387012987,42.72,30.8,0.42,0.103258027
+A Physiological Approach of Presence and VR Sickness in Simulated Teleoperated Social Tasks,Between,All,1.871237458,55.95,29.9,0.48,0.110030593
+Beyond Feeling Sick: The Visual and Cognitive Aftereffects of Virtual Reality,Between,VR,1.0419652,20.36,19.54,0.41,0.057142435
+Does 3D 360 video enhance user's VR experience? An Evaluation Study,Between,360Video,0.98334794,11.22,11.41,0.42,0.057057176
+Does 3D 360 video enhance user's VR experience? An Evaluation Study,Between,3D-360Video,0.939795918,9.21,9.8,0.43,0.068648009
+"Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR",Between,All,1.240720323,33.76,27.21,0.44,0.049158152
+Cybersickness Abatement from Repeated Exposure to VR with Reduced Discomfort,Between,Day 1,1.330993824,47.41,35.62,0.41,0.055463891
+Cybersickness Abatement from Repeated Exposure to VR with Reduced Discomfort,Between,Full FOV,1.319032761,50.73,38.46,0.43,0.027100344
+Field of View Restriction and Snap Turning as Cybersickness Mitigation Tools,Between,None,1.412785589,64.31,45.52,0.37,0.038422722
+Field of View Restriction and Snap Turning as Cybersickness Mitigation Tools,Between,FOV,1.290578888,45.48,35.24,0.36,0.032728517
+Field of View Restriction and Snap Turning as Cybersickness Mitigation Tools,Between,Snap,1.147669275,33.73,29.39,0.44,0.031895623
+Field of View Restriction and Snap Turning as Cybersickness Mitigation Tools,Between,Both,1.385220501,58.11,41.95,0.51,0.047790681
+"Exploring the Time Dilation Gameplay in VR, and Its Effect on Presence, VR Sickness, and Performance",Between,Normal,0.960444136,13.84,14.41,0.2,0.073061323
+"Exploring the Time Dilation Gameplay in VR, and Its Effect on Presence, VR Sickness, and Performance",Between,Time Dilation,0.768389058,12.64,16.45,0.19,0.061676708
+Combating VR sickness through subtle dynamic field-of-view modification,Within (Long),N,1.443068002,54.75,37.94,0.33,0.085050943
+Combating VR sickness through subtle dynamic field-of-view modification,Within (Long),R,2.147787251,52.9,24.63,0.33,0.137770627
+The Effect of a Foveated Field-of-view Restrictor on VR Sickness,Within (Long),FX,0.897948718,17.51,19.5,0.5,0.063779816
+The Effect of a Foveated Field-of-view Restrictor on VR Sickness,Within (Long),FV,0.886956522,24.48,27.6,0.5,0.063333906
+Field-of-View Restriction to Reduce VR Sickness Does Not Impede Spatial Learning in Women,Within (Long),RN,0.929347826,25.65,27.6,0.5,0.051137275
+Field-of-View Restriction to Reduce VR Sickness Does Not Impede Spatial Learning in Women,Within (Long),RY,0.918181818,16.16,17.6,0.5,0.05076889
+"You spin me right round, baby, right round: Examining the Impact of Multi-Sensory Self-Motion Cues on Motion Sickness During a VR Reading Task",Within (Long),C1-NR,0.291666667,3.15,10.8,0.42,0.054870249
+"You spin me right round, baby, right round: Examining the Impact of Multi-Sensory Self-Motion Cues on Motion Sickness During a VR Reading Task",Within (Long),C2-A,1.086206897,56.7,52.2,0.42,0.083680143
+"You spin me right round, baby, right round: Examining the Impact of Multi-Sensory Self-Motion Cues on Motion Sickness During a VR Reading Task",Within (Long),C3-V,0.795238095,16.7,21,0.42,0.06927378
+"You spin me right round, baby, right round: Examining the Impact of Multi-Sensory Self-Motion Cues on Motion Sickness During a VR Reading Task",Within (Long),C4-AV,0.677902622,18.1,26.7,0.42,0.064725052
+"You spin me right round, baby, right round: Examining the Impact of Multi-Sensory Self-Motion Cues on Motion Sickness During a VR Reading Task",Within (Long),C5-NC,1.524271845,62.8,41.2,0.42,0.113773807
+Evaluation of visual-induced motion sickness from head-mounted display using heartbeat evoked potential: a cognitive load-focused approach,Within (Long),HMD,2.94,29.4,10,0.5,0.110870833
+Physical discomfort and eye movements during arbitrary and optical flow-like motions in stereo 3D contents,Within (Long),FPS player,1.875727129,70.94,37.82,0,0.091972538
+Physical discomfort and eye movements during arbitrary and optical flow-like motions in stereo 3D contents,Within (Long),FPS spectator,2.00846588,78.29,38.98,0,0.100565587
+Physical discomfort and eye movements during arbitrary and optical flow-like motions in stereo 3D contents,Within (Long),racing player,1.209595283,45.13,37.31,0,0.057718679
+Physical discomfort and eye movements during arbitrary and optical flow-like motions in stereo 3D contents,Within (Long),racing spectator,1.408580693,56.47,40.09,0,0.06640166
+Navigation in immersive virtual reality: a comparison of 1:1 walking to 1:1 wheeling,Within (Long),Walking-2,0.897494305,11.82,13.17,0.48,0.045249936
+Navigation in immersive virtual reality: a comparison of 1:1 walking to 1:1 wheeling,Within (Long),manual wheeling,0.824945295,15.08,18.28,0.48,0.043234431
+Not just cybersickness: short-term effects of popular VR game mechanics on physical discomfort and reaction time (Exp 1),Within (Long),Exp1-BS,0.714802896,17.77,24.86,0.5,0.06277358
+Not just cybersickness: short-term effects of popular VR game mechanics on physical discomfort and reaction time (Exp 1),Within (Long),Exp1-OU,0.409404135,10.1,24.67,0.5,0.054190294
+Not just cybersickness: short-term effects of popular VR game mechanics on physical discomfort and reaction time (Exp 1),Within (Long),Exp1-SS,0.654808227,11.78,17.99,0.5,0.060719345
+Not just cybersickness: short-term effects of popular VR game mechanics on physical discomfort and reaction time (Exp 2),Within (Long),Exp2-FN,0.896020539,20.94,23.37,0.5,0.07007132
+Not just cybersickness: short-term effects of popular VR game mechanics on physical discomfort and reaction time (Exp 2),Within (Long),Exp2-DB,0.958664547,24.12,25.16,0.5,0.072975943
+Not just cybersickness: short-term effects of popular VR game mechanics on physical discomfort and reaction time (Exp 2),Within (Long),Exp2-SPT,1.133659639,30.11,26.56,0.5,0.082129604
+"The Effect of VR Gaming on Discomfort, Cybersickness, and Reaction Time",Within (Long),BS,1.349315068,29.55,21.9,0.5,0.095516279
+"The Effect of VR Gaming on Discomfort, Cybersickness, and Reaction Time",Within (Long),OU,1.403138794,28.61,20.39,0.5,0.099219962
+"The Effect of VR Gaming on Discomfort, Cybersickness, and Reaction Time",Within (Long),SS,1.696129405,29.36,17.31,0.5,0.121921374
+Projection Displays Induce Less Simulator Sickness than Head-Mounted Displays in a Real Vehicle Driving Simulator (Exp 1),Within (Long),Exp1-HMD,1.141848327,37.19,32.57,0.5,0.055063627
+Projection Displays Induce Less Simulator Sickness than Head-Mounted Displays in a Real Vehicle Driving Simulator (Exp 2),Within (Long),Exp2-HMD,1.233015873,19.42,15.75,0.27,0.058672136
+Exploring the Use of Olfactory Stimuli Towards Reducing Visually Induced Motion Sickness in Virtual Reality,Within (Long),No-Olf,0.863441061,46.22,53.53,0.5,0.09805466
+Exploring the Use of Olfactory Stimuli Towards Reducing Visually Induced Motion Sickness in Virtual Reality,Within (Long),High-Olf,0.699404225,38.74,55.39,0.5,0.088898795
+Exploring the Use of Olfactory Stimuli Towards Reducing Visually Induced Motion Sickness in Virtual Reality,Within (Long),Mde-Olf,0.582132565,32.32,55.52,0.5,0.083531369
+You’re in for a Bumpy Ride! Uneven Terrain Increases Cybersickness While Navigating with Head Mounted Displays,Within (Short),Flat,0.715400624,13.75,19.22,0.45,0.033049974
+You’re in for a Bumpy Ride! Uneven Terrain Increases Cybersickness While Navigating with Head Mounted Displays,Within (Short),Regular Bump,1.034330986,23.5,22.72,0.45,0.040392639
+You’re in for a Bumpy Ride! Uneven Terrain Increases Cybersickness While Navigating with Head Mounted Displays,Within (Short),Perlin Noise,1.231638418,23.98,19.47,0.45,0.046275437
+Reducing simulator sickness with perceptual camera control,Within (Short),P,0.768786127,13.3,17.3,0.33,0.107959671
+Reducing simulator sickness with perceptual camera control,Within (Short),O,0.6484375,8.3,12.8,0.33,0.100852966
+Lean to Fly: Leaning-Based Embodied Flying can Improve Performance and User Experience in 3D Navigation,Within (Short),Gamepad,1.02124431,33.65,32.95,0.45,0.069157726
+Lean to Fly: Leaning-Based Embodied Flying can Improve Performance and User Experience in 3D Navigation,Within (Short),HJ,1.064708582,23.2,21.79,0.45,0.071218281
+NaviBoard and NaviChair: Limited Translation Combined with Full Rotation for Efficient Virtual Locomotion,Within (Short),NaviBoard,0.78563886,14.88,18.94,0.63,0.054525592
+NaviBoard and NaviChair: Limited Translation Combined with Full Rotation for Efficient Virtual Locomotion,Within (Short),Walking,0.678100264,15.42,22.74,0.63,0.051246249
+NaviBoard and NaviChair: Limited Translation Combined with Full Rotation for Efficient Virtual Locomotion,Within (Short),Controller,1.224022879,25.68,20.98,0.63,0.072879834
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 2a),Within (Short),Exp2a-30,1.079797171,40.46,37.47,0,0.143907361
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 2a),Within (Short),Exp2a-60,0.886227545,25.16,28.39,0,0.126609057
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 2a),Within (Short),Exp2a-90,0.909275559,26.86,29.54,0,0.128490093
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 2a),Within (Short),Exp2a-120,0.566380616,22.44,39.62,0,0.105490318
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 2a),Within (Short),Exp2a-180,0.619285714,17.34,28,0,0.108341582
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 3),Within (Short),Exp3-TP,0.720526316,13.69,19,0.35,0.024697629
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 3),Within (Short),Exp3-JS,1.199357708,48.55,40.48,0.35,0.033710381
+Intentional Head-Motion Assisted Locomotion for Reducing Cybersickness (Exp 3),Within (Short),Exp3-Ours,0.833777102,21.92,26.29,0.35,0.026423375
+The Effect of Field-of-View Restriction on Sex Bias in VR Sickness and Spatial Navigation Performance,Within (Short),RN,0.996416938,30.59,30.7,0.5,0.053443691
+The Effect of Field-of-View Restriction on Sex Bias in VR Sickness and Spatial Navigation Performance,Within (Short),RY,0.286309524,9.62,33.6,0.5,0.037178092
+JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality,Within (Short),forward-jumping,0.778022948,17.63,22.66,0.36,0.046523566
+JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality,Within (Short),teleportation,0.648831488,10.55,16.26,0.36,0.043231827
+JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality,Within (Short),scaled-1.4,1.038897095,21.1,20.31,0.36,0.054987628
+JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality,Within (Short),scaled-1.8,1.008581236,17.63,17.48,0.36,0.053879216
+JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality,Within (Short),scaled-2.2,1.028885832,14.96,14.54,0.36,0.054617965
+JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality,Within (Short),scaled-2.6,0.891199226,18.43,20.68,0.36,0.049897073
+JumpVR: Jump-Based Locomotion Augmentation for Virtual Reality,Within (Short),scaled-3.0,0.887896825,17.9,20.16,0.36,0.049792157
+"Effect of Gameplay Uncertainty, Display Type, and Age on Virtual Reality Exergames",Within (Short),Young Adults VR_Cer,0.843149039,14.03,16.64,0.38,0.084715634
+"Effect of Gameplay Uncertainty, Display Type, and Age on Virtual Reality Exergames",Within (Short),Young Adults VR_Unc,0.764199656,13.32,17.43,0.38,0.080750035
+"Effect of Gameplay Uncertainty, Display Type, and Age on Virtual Reality Exergames",Within (Short),Middle-aged Adults VR_Cer,0.372679045,2.81,7.54,0.38,0.066840302
+"Effect of Gameplay Uncertainty, Display Type, and Age on Virtual Reality Exergames",Within (Short),Middle-aged Adults VR_Unc,0.734729494,4.21,5.73,0.38,0.079369607
+Reducing Virtual Reality Sickness for Cyclists in VR Bicycle Simulators,Within (Short),Straight road,1.146596859,21.9,19.1,0.29,0.069055924
+Reducing Virtual Reality Sickness for Cyclists in VR Bicycle Simulators,Within (Short),Turns,1.175,23.5,20,0.29,0.070429688
+Reducing Virtual Reality Sickness for Cyclists in VR Bicycle Simulators,Within (Short),Slopes,1.315789474,25,19,0.29,0.077735457
+On the Effect of the Vertical Axis Alignment on Cybersickness and Game Experience in a Supine Posture,Within (Short),SB,0.253918495,8.1,31.9,0.23,0.03440791
+On the Effect of the Vertical Axis Alignment on Cybersickness and Game Experience in a Supine Posture,Within (Short),SV,0.525925926,7.1,13.5,0.23,0.037943301
+On the Effect of the Vertical Axis Alignment on Cybersickness and Game Experience in a Supine Posture,Within (Short),DB,0.967391304,17.8,18.4,0.23,0.048930766
+On the Effect of the Vertical Axis Alignment on Cybersickness and Game Experience in a Supine Posture,Within (Short),DV,0.502890173,8.7,17.3,0.23,0.037548309
+Galvanic Skin Response and AE-LSTM for Anomaly Detection in VR-Induced Motion Sickness,Within (Short),Clear,1.040640394,42.25,40.6,0,0.096341638
+Galvanic Skin Response and AE-LSTM for Anomaly Detection in VR-Induced Motion Sickness,Within (Short),Stormy,1.098176718,62.64,57.04,0,0.100187253
+Investigating External Airflow and Reduced Room Temperature to Reduce Virtual Reality Sickness (Exp 1),Within (Short),Exp1-Control,1.207288532,36.11,29.91,0.32,0.061741886
+Investigating External Airflow and Reduced Room Temperature to Reduce Virtual Reality Sickness (Exp 1),Within (Short),Exp1-Air Flow,1.044276027,26.18,25.07,0.32,0.055187722
+A virtual reality perceptual study of multi-Technique redirected walking method,Within (Short),FNW,1.036182723,22.91,22.11,0.47,0.048026166
+A virtual reality perceptual study of multi-Technique redirected walking method,Within (Short),MTRW,1.029664788,34.71,33.71,0.47,0.047815775
+SmoothRide: A Versatile Solution to Combat Cybersickness in Elevation-Altering Environments,Within (Short),Control,1.093023256,33.37,30.53,0.37,0.029580554
+SmoothRide: A Versatile Solution to Combat Cybersickness in Elevation-Altering Environments,Within (Short),FOV,1.015264696,31.26,30.79,0.37,0.028062615
+SmoothRide: A Versatile Solution to Combat Cybersickness in Elevation-Altering Environments,Within (Short),Flat,0.964330808,30.55,31.68,0.37,0.027129018
+SmoothRide: A Versatile Solution to Combat Cybersickness in Elevation-Altering Environments,Within (Short),Smooth,0.971018735,33.17,34.16,0.37,0.027248865
+Driving simulation: the effects of interactivity and presentation setting,Within (Short),active,1.082590023,32.77,30.27,0.53,0.049562518
+Driving simulation: the effects of interactivity and presentation setting,Within (Short),passive,1.42257122,38.95,27.38,0.53,0.062870451
