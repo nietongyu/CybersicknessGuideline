@@ -16,8 +16,6 @@ The power calculation and visualization is in `PowerCalculation.R`.
 
 ## Bibtex
 ```
-## Bibtex
-```
 @article{nie_revenge_2026,
  author = {Nie, Tongyu and Cantory, Ville and Hutton Pospick, Courtney and Zhang, Danhua and Tan, Haoyu and Adeniyi, Sam and Wu, Fei and Zielasko, Daniel and Adhanom, Isayas Berhe and Suma Rosenberg, Evan},
  doi = {10.1109/TVCG.2026.3704898},
@@ -29,7 +27,5 @@ The power calculation and visualization is in `PowerCalculation.R`.
  volume = {32},
  year = {2026}
 }
-```
-
 ```
 
